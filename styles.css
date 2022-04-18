@@ -87,7 +87,7 @@ p{
     display: flex;
     content: '';
     background: #FAE613;
-    height: 1.5vw;
+    height: 1vw;
     position: absolute;
     z-index: 999;
     width: 100%;
@@ -699,7 +699,7 @@ button{
     display: block;
     content: '';
     background: #FAE613;
-    height: 1.5vw;
+    height: 1vw;
     position: relative;
     z-index: 999;
     width: 100%;
